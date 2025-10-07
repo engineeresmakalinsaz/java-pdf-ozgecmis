@@ -3,7 +3,7 @@
 Bu proje, Java dilinde yazılmış ve iText kütüphanesi kullanılarak PDF formatında bir özgeçmiş oluşturan basit bir konsol uygulamasıdır.  
 Uygulama kullanıcıdan temel bilgileri alır ve bu bilgileri biçimlendirilmiş bir PDF dosyasına dönüştürür.
 
---
+---
 
 🚀 Özellikler
 - Konsoldan ad, e-posta, telefon, eğitim bilgisi ve 3 iş deneyimi alınır.  
@@ -19,11 +19,23 @@ Uygulama kullanıcıdan temel bilgileri alır ve bu bilgileri biçimlendirilmiş
 - IntelliJ IDEA:Geliştirme ortamı(IDE) olarak kullanıldı.
 ---
 
-💡 Dil Modeli Desteği
+💡 Dil Modeli Desteği 
 Bu projenin geliştirilme sürecinde ChatGPT ve Gemini desteğinden yararlanılmıştır.  
 Dil modeli, kod yapısının oluşturulması ve hata ayıklama süreçlerinde yardımcı olmuştur.
 
--
+---
+
+## Dosya Yapısı 
+- **src/main/java/org/example/Main.java** → Ana Java dosyası  
+- **pom.xml** → Maven yapılandırma dosyası
+
+---
+
+## Çalıştırma
+Projeyi çalıştırmak için:
+1. Maven veya IntelliJ IDEA kullanarak projeyi açın.  
+2. `Main.java` dosyasını çalıştırın.  
+3. Uygulama, örnek bir PDF özgeçmiş dosyası oluşturacaktır.
 
 ✍️ Geliştirici
 Ad Soyad:Esma Kalınsazlıoğlu
