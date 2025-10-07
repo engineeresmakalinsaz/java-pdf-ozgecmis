@@ -26,10 +26,9 @@ Dil modeli, kod yapısının oluşturulması ve hata ayıklama süreçlerinde ya
 ---
 
 ## Dosya Yapısı 
-- **src/main/java/org/example/Main.java** → Ana Java dosyası  
-- **pom.xml** → Maven yapılandırma dosyası
-
----
+- src/main/java/org/example/Main.java → Ana Java dosyası  
+- pom.xml** → Maven yapılandırma dosyası
+- ozgecmis.pdf → Özgeçmiş PDF dosyası
 
 ## Çalıştırma
 Projeyi çalıştırmak için:
